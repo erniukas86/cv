@@ -28,7 +28,7 @@ const useStyles = makeStyles(styles);
 export default function Icons() {
   const classes = useStyles();
   return (
-    <div style={{width:'50%', marginTop: 100, display: 'block', marginLeft: 'auto', marginRight: 'auto'}}>
+    <div className="content">
         <Card profile>
             <CardAvatar profile>
               <a href="#pablo" onClick={e => e.preventDefault()}>
