@@ -67,6 +67,7 @@ export default function Icons() {
                     <p className={classes.cardCategory}>SQL <Slider style={{color: '#66bb6a'}} value={50} valueLabelDisplay="on"></Slider></p>
                     <p className={classes.cardCategory}>Kncokout.js <Slider style={{color: '#66bb6a'}} value={50} valueLabelDisplay="on"></Slider></p>
                     <p className={classes.cardCategory}>TypeScript <Slider style={{color: '#66bb6a'}} value={60} valueLabelDisplay="on"></Slider></p>
+                    <p className={classes.cardCategory}>Agile <Slider style={{color: '#66bb6a'}} value={80} valueLabelDisplay="on"></Slider></p>
                 </CardBody>
             </Card>
           </GridItem>

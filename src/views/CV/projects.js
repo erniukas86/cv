@@ -27,8 +27,15 @@ export const projects = [
     technologies: "React, Cordova, JavaScript",
   },
   {
+    name: "Wannago",
+    date: "2021 June - 2022 December",
+    description:
+      "Web application for travelers and travel agencies. Worked as a team lead and leading agile process",
+    technologies: "WPF",
+  },
+  {
     name: "PerMinute",
-    date: "2020 April - Present",
+    date: "2020 April - 2021 January",
     description:
       "Short story app - for people who likes to create short story with well know characters but in totally different scenarios. Every day new story is published and users gets notifications. Ability to create, rate, share and comment stories.",
     challenge: "How to create a good UX for writing a story from mobile phone.",
@@ -49,6 +56,13 @@ export const projects = [
     technologies: "React, JavaScript",
   },
   {
+    name: "Tisoware",
+    date: "2020 December - 2021 December",
+    description:
+      "Microsoft outlook plugin for meetings management. Worked as a team lead and leading agile process",
+    technologies: "WPF",
+  },
+  {
     name: "Tournaments",
     date: "2019 March - Present",
     description:
@@ -58,9 +72,17 @@ export const projects = [
   },
   {
     name: "Front-End Academy",
-    date: "2017 October - 2020 January",
+    date: "2017 October - 2021 January",
     description:
       "3-month academy to learn JavaScript, React, and React native. 1 time per week including theory, live demo, and workshops. Each student has to create his own project during the period.",
+    technologies: "React, React Native, TypeScript, JavaScript",
+    challenge: "Prepare all the material by myself.",
+  },
+  {
+    name: "Full-stack Academy",
+    date: "2022 November - Present",
+    description:
+      "3-month academy to learn JavaScript, React, React native and C#. 1 time per week including theory, live demo, and workshops. Each student has to create his own project during the period.",
     technologies: "React, React Native, TypeScript, JavaScript",
     challenge: "Prepare all the material by myself.",
   },
