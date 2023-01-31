@@ -56,18 +56,20 @@ export default function Icons() {
                 </CardIcon>
                 </CardHeader>
                 <CardBody style={{textAlign: 'left'}}>
-                    <p className={classes.cardCategory}>React <Slider style={{color: '#66bb6a'}} value={78} valueLabelDisplay="on"></Slider></p>
-                    <p className={classes.cardCategory}>React Native <Slider style={{color: '#66bb6a'}} value={60} valueLabelDisplay="on"></Slider></p>
-                    <p className={classes.cardCategory}>C# <Slider style={{color: '#66bb6a'}} value={62} valueLabelDisplay="on"></Slider></p>
-                    <p className={classes.cardCategory}>MVC <Slider style={{color: '#66bb6a'}} value={70} valueLabelDisplay="on"></Slider></p>
-                    <p className={classes.cardCategory}>JavaScript <Slider style={{color: '#66bb6a'}} value={87} valueLabelDisplay="on"></Slider></p>
-                    <p className={classes.cardCategory}>JQuery <Slider style={{color: '#66bb6a'}} value={84} valueLabelDisplay="on"></Slider></p>
-                    <p className={classes.cardCategory}>HTML5 <Slider style={{color: '#66bb6a'}} value={87} valueLabelDisplay="on"></Slider></p>
-                    <p className={classes.cardCategory}>CSS <Slider style={{color: '#66bb6a'}} value={55} valueLabelDisplay="on"></Slider></p>
-                    <p className={classes.cardCategory}>SQL <Slider style={{color: '#66bb6a'}} value={50} valueLabelDisplay="on"></Slider></p>
-                    <p className={classes.cardCategory}>Kncokout.js <Slider style={{color: '#66bb6a'}} value={50} valueLabelDisplay="on"></Slider></p>
-                    <p className={classes.cardCategory}>TypeScript <Slider style={{color: '#66bb6a'}} value={60} valueLabelDisplay="on"></Slider></p>
-                    <p className={classes.cardCategory}>Agile <Slider style={{color: '#66bb6a'}} value={80} valueLabelDisplay="on"></Slider></p>
+                    <p className={classes.cardCategory}>React (6 years) <Slider style={{color: '#66bb6a'}} value={88} valueLabelDisplay="on"></Slider></p>
+                    <p className={classes.cardCategory}>React Native (4 years) <Slider style={{color: '#66bb6a'}} value={75} valueLabelDisplay="on"></Slider></p>
+                    <p className={classes.cardCategory}>C# (9 years) <Slider style={{color: '#66bb6a'}} value={75} valueLabelDisplay="on"></Slider></p>
+                    <p className={classes.cardCategory}>MVC (9 years) <Slider style={{color: '#66bb6a'}} value={70} valueLabelDisplay="on"></Slider></p>
+                    <p className={classes.cardCategory}>JavaScript (9 years) <Slider style={{color: '#66bb6a'}} value={87} valueLabelDisplay="on"></Slider></p>
+                    <p className={classes.cardCategory}>JQuery (6 years) <Slider style={{color: '#66bb6a'}} value={84} valueLabelDisplay="on"></Slider></p>
+                    <p className={classes.cardCategory}>HTML5 (9 years) <Slider style={{color: '#66bb6a'}} value={87} valueLabelDisplay="on"></Slider></p>
+                    <p className={classes.cardCategory}>CSS (9 years) <Slider style={{color: '#66bb6a'}} value={70} valueLabelDisplay="on"></Slider></p>
+                    <p className={classes.cardCategory}>SQL (9 years) <Slider style={{color: '#66bb6a'}} value={70} valueLabelDisplay="on"></Slider></p>
+                    <p className={classes.cardCategory}>Kncokout.js (6 years) <Slider style={{color: '#66bb6a'}} value={50} valueLabelDisplay="on"></Slider></p>
+                    <p className={classes.cardCategory}>TypeScript (3 years) <Slider style={{color: '#66bb6a'}} value={75} valueLabelDisplay="on"></Slider></p>
+                    <p className={classes.cardCategory}>Agile/SCRUM (5 years) <Slider style={{color: '#66bb6a'}} value={80} valueLabelDisplay="on"></Slider></p>
+                    <p className={classes.cardCategory}>Team Lead (2 years) <Slider style={{color: '#66bb6a'}} value={80} valueLabelDisplay="on"></Slider></p>
+                    <p className={classes.cardCategory}>Tech Lead (2 years) <Slider style={{color: '#66bb6a'}} value={70} valueLabelDisplay="on"></Slider></p>
                 </CardBody>
             </Card>
           </GridItem>

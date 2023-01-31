@@ -31,7 +31,7 @@ export const projects = [
     date: "2021 June - 2022 December",
     description:
       "Web application for travelers and travel agencies. Worked as a team lead and leading agile process",
-    technologies: "WPF",
+    technologies: "C# + React",
   },
   {
     name: "PerMinute",
